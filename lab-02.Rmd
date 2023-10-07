@@ -1,6 +1,6 @@
 ---
 title: "Lab 02 - Global plastic waste"
-author: "Team Name: User1, User2, User3 and User4"
+author: Charlie Knox
 date: "`r Sys.Date()`"
 output: html_document
 ---
